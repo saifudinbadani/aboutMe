@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saifudinbadani
-- 👀 I’m interested in pschology, human behaviour, marketing and coding.
+- 👀 I’m interested in psychology, human behaviour, marketing and coding.
 - 🌱 I’m currently learning javascript, HTML, CSS and react.
 - 📫 How to reach me ...
 
